@@ -1,5 +1,3 @@
-<img width="1600" height="899" alt="WhatsApp Image 2026-08-08 at 10 14 10 AM" src="https://github.com/user-attachments/assets/2f2acc8e-f126-4b26-848b-7d809ca77a6a" />
-<img width="1600" height="899" alt="WhatsApp Image 2026-08-08 at 10 14 10 AM" src="https://github.com/user-attachments/assets/5b57f103-546a-464f-aee5-ddc107f8b638" />
 # Ex.No: 8  Implementation of Path finding using A* algorithm
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
